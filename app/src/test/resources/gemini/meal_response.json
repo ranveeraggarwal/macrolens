@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"items\": [{\"name\": \"White rice\", \"grams\": 180, \"kcal\": 234}, {\"name\": \"Chicken curry\", \"grams\": 220.4, \"kcal\": 310.6}, {\"name\": \"Mango lassi\", \"grams\": 250, \"kcal\": 180}]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1342,
+    "candidatesTokenCount": 61,
+    "totalTokenCount": 1403
+  },
+  "modelVersion": "gemini-3.8-flash",
+  "responseId": "fixture-response-id"
+}
