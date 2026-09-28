@@ -1,0 +1,10 @@
+{
+  "promptFeedback": {
+    "blockReason": "SAFETY"
+  },
+  "usageMetadata": {
+    "promptTokenCount": 1342,
+    "totalTokenCount": 1342
+  },
+  "modelVersion": "gemini-3.8-flash"
+}
