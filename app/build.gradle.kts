@@ -60,6 +60,7 @@ dependencies {
     implementation(libs.androidx.material3)
 
     implementation(libs.androidx.core.ktx)
+    implementation(libs.androidx.activity.compose)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     androidTestImplementation(libs.androidx.junit)
